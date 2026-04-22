@@ -39,8 +39,17 @@
     li {
       margin-bottom: 1rem;
 
+      .paper-highlight {
+        background-color: color-mix(in srgb, var(--global-theme-color) 8%, transparent);
+        border: 1px solid color-mix(in srgb, var(--global-theme-color) 25%, transparent);
+        border-radius: 0.5rem;
+        padding: 0.9rem 0.8rem;
+      }
+
       .preview {
         display: inline-block;
+        width: 100%;
+        max-width: 280px;
       }
 
       .abbr {

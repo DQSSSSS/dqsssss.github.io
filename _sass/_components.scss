@@ -175,23 +175,36 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.35rem;
 
     a {
+      display: inline-flex;
+      align-items: center;
+
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 1.7rem;
+        height: 1.7rem;
+        margin-bottom: 0;
+        display: block;
+      }
+
+      img[alt="Zhihu"] {
+        transform: translateY(-1px);
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
+        width: 1.9rem;
+        height: 2rem;
+        margin-bottom: 0;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 1.9rem;
+          height: 1.9rem;
         }
       }
 
