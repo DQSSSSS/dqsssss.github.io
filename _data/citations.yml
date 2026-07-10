@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-10'
 papers:
   4Lm61fIAAAAJ:1sJd4Hv_s6UC:
     citations: 2
     title: Neural Path Sampling for Rendering Pure Specular Light Transport
     year: '2024'
   4Lm61fIAAAAJ:KxtntwgDAa4C:
-    citations: 27
+    citations: 28
     title: Constrained truth discovery
     year: '2020'
   4Lm61fIAAAAJ:P5F9QuxV20EC:
@@ -22,6 +22,6 @@ papers:
     title: 'SQuadGen: Generating Simple Quad Layouts via Chart Distance Fields'
     year: '2026'
   4Lm61fIAAAAJ:nb7KW1ujOQ8C:
-    citations: 113
+    citations: 114
     title: 'Dilightnet: Fine-grained lighting control for diffusion-based image generation'
     year: '2024'
