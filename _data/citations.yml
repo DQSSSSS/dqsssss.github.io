@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-05'
 papers:
   4Lm61fIAAAAJ:1sJd4Hv_s6UC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: Constrained truth discovery
     year: '2020'
   4Lm61fIAAAAJ:P5F9QuxV20EC:
-    citations: 12
+    citations: 10
     title: Multi-view representation is what you need for point-cloud pre-training
     year: '2024'
   4Lm61fIAAAAJ:UxriW0iASnsC:
@@ -22,6 +22,6 @@ papers:
     title: 'SQuadGen: Generating Simple Quad Layouts via Chart Distance Fields'
     year: '2026'
   4Lm61fIAAAAJ:nb7KW1ujOQ8C:
-    citations: 115
+    citations: 116
     title: 'Dilightnet: Fine-grained lighting control for diffusion-based image generation'
     year: '2024'
